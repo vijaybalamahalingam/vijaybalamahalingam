@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vijaybalamahalingam
 - 👀 I’m interested in Competers
-- 🌱 I’m currently learning BTECH in Computer Science and Engineering
+- 🌱 I’m currently pursuing BTECH in Computer Science and Engineering
 - 💞️ I’m looking to collaborate on any sort of internships in technical roles
 - 📫 How to reach me vijaybala.mahalingam@gmail.com
 
